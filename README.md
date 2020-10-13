@@ -29,7 +29,8 @@ Julian David Rincon Castro 20172020125
   
 4. **Asignación de actividades**
 
-| TITULO1| TITULO2|
-| ----- | ---- |
-| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+| Función | Rendimiento | Restriccione |
+| ----- | ---- | ----- |
+| Reiniciar cronómetro | Inmediato | A selección del usuario |
+| Iniciar Cronómetro | Inmediato | Desde 0:00 |
  

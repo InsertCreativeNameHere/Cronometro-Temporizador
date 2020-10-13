@@ -18,7 +18,7 @@ Julian David Rincon Castro 20172020125
 | Reiniciar cronómetro  | Inmediato  | A selección del usuario  |  
 | Iniciar Cronómetro  | Inmediato  | Desde 0:00  |  
 | Detener Cronómetro  | Inmediato  | A selección del usuario  |  
-| Establecer Temporizador  | No establecido  | A selección del usuario  |  
+
 
 3. **Estimación de uso de recursos.**  
   - Se espera que la mayoría de recursos se utilicen en el momento de relacionar la interfaz con el código del programa.

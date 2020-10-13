@@ -14,18 +14,18 @@ Julian David Rincon Castro 20172020125
 
 2. **Actividades Asociadas**  
 | Función | Rendimiento | Restricciones |  
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |  
 | Reiniciar cronómetro  | Inmediato | A selección del usuario |  
 | Iniciar Cronómetro  | Inmediato  | Desde 0:00 |  
 | Detener Cronómetro  | Inmediato  | A selección del usuario |  
 | Establecer Temporizador  |          | A selección del usuario |  
 
 3. **Estimación de uso de recursos.**  
-  - Se espera que la mayoría de recursos se utilicen en el momento de relacionar la interfaz con el código del programa
-  - Se espera que el producto (cronómetro) utilice únicamente un tiempo de trabajo de aproximadamente 2 horas, teniendo en cuenta el uso de librería timer
-  - Se espera que la interfaz del programa utilice un tiempo aproximado de 1 hora, teniendo en cuenta la variedad de ventanas y botones que se utilizaran
-  - Se espera que el temporizador, al ser una variación del cronómetro con restricciones distintas no tome más de 1 hora
-  - El tiempo total de producción del programa aproximado es de 5 horas
+  - Se espera que la mayoría de recursos se utilicen en el momento de relacionar la interfaz con el código del programa.
+  - Se espera que el producto (cronómetro) utilice únicamente un tiempo de trabajo de aproximadamente 2 horas, teniendo en cuenta el uso de librería timer.
+  - Se espera que la interfaz del programa utilice un tiempo aproximado de 1 hora, teniendo en cuenta la variedad de ventanas y botones que se utilizaran.
+  - Se espera que el temporizador, al ser una variación del cronómetro con restricciones distintas no tome más de 1 hora.
+  - El tiempo total de producción del programa aproximado es de 5 horas.
   
 4. **Asignación de actividades**
 

@@ -13,11 +13,13 @@ Julian David Rincon Castro 20172020125
   - **Función y rendimiento:** El software del cronómetro utiliza librerías de java cuyas funciones son el manejo del tiempo, más específicamente la función de timer en java, su consumo de recursos es bajo y por lo tanto tiene un rendimiento rápido y eficaz.  
 
 2. **Actividades Asociadas**  
-| Función  | Rendimiento  | Restricciones  |  
-| ------------- | ------------- | ------------- |  
-| Reiniciar cronómetro  | Inmediato  | A selección del usuario  |  
-| Iniciar Cronómetro  | Inmediato  | Desde 0:00  |  
-| Detener Cronómetro  | Inmediato  | A selección del usuario  |  
+| Función | Rendimiento | Restricciones |
+| ----- | ---- | ----- |
+| Reiniciar cronómetro | Inmediato | A selección del usuario |
+| Iniciar Cronómetro | Inmediato | Desde 0:00 |
+| Detener Cronómetro | Inmediato | A selección del usuario |
+| Establecer Temporizador | | A selección del usuario |
+
 
 
 3. **Estimación de uso de recursos.**  
@@ -29,9 +31,8 @@ Julian David Rincon Castro 20172020125
   
 4. **Asignación de actividades**
 
-| Función | Rendimiento | Restriccione |
-| ----- | ---- | ----- |
-| Reiniciar cronómetro | Inmediato | A selección del usuario |
-| Iniciar Cronómetro | Inmediato | Desde 0:00 |
-| Detener Cronómetro | Inmediato | A selección del usuario |
-| Establecer Temporizador | | A selección del usuario |
+  - Luis Hormiga: Creación de clases Menu y Tiempo.  
+     - Clase Tiempo: 
+       - atributos: int segundos, int minutos, int hora.
+  - Javier Aponte: Creación de clase Crono.  
+  - Julian Rincon: Creación clase.  

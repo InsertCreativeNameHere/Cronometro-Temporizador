@@ -14,7 +14,7 @@ Julian David Rincon Castro 20172020125
 
 2. **Actividades Asociadas**  
 | Función | Rendimiento | Restricciones |
-| ----- | ----- | ----- |
+| ---- | ---- | ---- |
 | Reiniciar cronómetro | Inmediato | A selección del usuario |
 | Iniciar Cronómetro | Inmediato | Desde 0:00 |
 | Detener Cronómetro | Inmediato | A selección del usuario |

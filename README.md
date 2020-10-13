@@ -13,11 +13,11 @@ Julian David Rincon Castro 20172020125
   - **Función y rendimiento:** El software del cronómetro utiliza librerías de java cuyas funciones son el manejo del tiempo, más específicamente la función de timer en java, su consumo de recursos es bajo y por lo tanto tiene un rendimiento rápido y eficaz.  
 
 2. **Actividades Asociadas**  
-| Función  | Rendimiento  | Restricciones  |  
-| ------------- | ------------- | ------------- |  
-| Reiniciar cronómetro  | Inmediato  | A selección del usuario  |  
-| Iniciar Cronómetro  | Inmediato  | Desde 0:00  |  
-| Establecer Temporizador  | No establecido  | A selección del usuario  |  
+| Función  | Rendimiento  | Restricciones  |
+| ------------- | ------------- | ------------- |
+| Reiniciar cronómetro  | Inmediato  | A selección del usuario  |
+| Iniciar Cronómetro  | Inmediato  | Desde 0:00  |
+| Establecer Temporizador  | No establecido  | A selección del usuario  |
 
 3. **Estimación de uso de recursos.**  
   - Se espera que la mayoría de recursos se utilicen en el momento de relacionar la interfaz con el código del programa.

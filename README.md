@@ -33,6 +33,18 @@ Julian David Rincon Castro 20172020125
 
   - Luis Hormiga: Creación de clases Menu y Tiempo.  
      - Clase Tiempo: 
-       - atributos: int segundos, int minutos, int hora.
-  - Javier Aponte: Creación de clase Crono.  
-  - Julian Rincon: Creación clase.  
+       - Atributos: int segundos, int minutos, int hora.
+       - Metodos: Tiempo(int seg, int min, int hora), Tiempo(), void avanzarTiempo(), void retrocederTiempo(), getSegundos(), setSegundos, getMinutos(), setMinutos(), getHora(), setHora.
+     - Clase Menu:
+       - Atributos: jbtnCronometro, jbtnTemporizador.
+       - Metodos: Menu(), void jbtnCronometroActionPerformed(java.awt.event.ActionEvent evt), void jbtnTemporizadorActionPerformed(java.awt.event.ActionEvent evt).
+       
+  - Javier Aponte: Creación de clase Crono. 
+    - Clase Crono: 
+       - Atributos: Tiempo miTiempo, Timer time
+       - Metodos: Crono(), void iniciarBotonActionPerformed(java.awt.event.ActionEvent evt), void pausarBotonActionPerformed(java.awt.event.ActionEvent evt),  void marcaBotonActionPerformed(java.awt.event.ActionEvent evt), void atrasBotonActionPerformed(java.awt.event.ActionEvent evt).
+       
+  - Julian Rincon: Creación clase Tempo.
+    - Clase Tempo:
+       - Atributos: Timer time, Tiempo miTiempo
+       - Metodos: Tempo(), void BHBotonActionPerformed(java.awt.event.ActionEvent evt), void SMBotonActionPerformed(java.awt.event.ActionEvent evt), void BmBotonActionPerformed(java.awt.event.ActionEvent evt), void SSBotonActionPerformed(java.awt.event.ActionEvent evt), void BSBotonActionPerformed(java.awt.event.ActionEvent evt),  void iniciarBotonActionPerformed(java.awt.event.ActionEvent evt), void pausarBotonActionPerformed(java.awt.event.ActionEvent evt), void cancelarBotonActionPerformed(java.awt.event.ActionEvent evt), void atrasBotonActionPerformed(java.awt.event.ActionEvent evt).

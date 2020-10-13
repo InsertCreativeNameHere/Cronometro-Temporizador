@@ -3,7 +3,7 @@ Desarrollo de un cronometro básico con interfaz gráfica utilizando Java
 
 ## Participantes
 Luis Daniel Hormiga González 20172020026  
-Javier Andrés Aponte Quevedo 20172020036  https://guides.github.com/activities/hello-world/
+Javier Andrés Aponte Quevedo 20172020036 
 Julian David Rincon Castro 20172020125  
 
 ## Diagnóstico de planificación y estimación de un cronómetro en java

@@ -20,11 +20,6 @@ Julian David Rincon Castro 20172020125
 | Detener Cronómetro | Inmediato | A selección del usuario |
 | Establecer Temporizador | | A selección del usuario |
 
-3. sdsad  
-| Función | Rendimiento | Restricciones |
-| ----- | ----- | ----- |
-| Reiniciar cronómetro | Inmediato | A selección del usuario |
-
 3. **Estimación de uso de recursos.**  
   - Se espera que la mayoría de recursos se utilicen en el momento de relacionar la interfaz con el código del programa.
   - Se espera que el producto (cronómetro) utilice únicamente un tiempo de trabajo de aproximadamente 2 horas, teniendo en cuenta el uso de librería timer.
@@ -33,21 +28,20 @@ Julian David Rincon Castro 20172020125
   - El tiempo total de producción del programa aproximado es de 5 horas.
   
 4. **Asignación de actividades**
-
   - Luis Hormiga: Creación de clases Menu y Tiempo.  
      - Clase Tiempo: 
-       - Atributos: int segundos, int minutos, int hora.
-       - Metodos: Tiempo(int seg, int min, int hora), Tiempo(), void avanzarTiempo(), void retrocederTiempo(), getSegundos(), setSegundos, getMinutos(), setMinutos(), getHora(), setHora.
+      - Atributos: int segundos, int minutos, int hora.
+      - Metodos: Tiempo(int seg, int min, int hora), Tiempo(), void avanzarTiempo(), void retrocederTiempo(), getSegundos(), setSegundos, getMinutos(), setMinutos(), getHora(), setHora.
      - Clase Menu:
-       - Atributos: jbtnCronometro, jbtnTemporizador.
-       - Metodos: Menu(), void jbtnCronometroActionPerformed(java.awt.event.ActionEvent evt), void jbtnTemporizadorActionPerformed(java.awt.event.ActionEvent evt).
+      - Atributos: jbtnCronometro, jbtnTemporizador.
+      - Metodos: Menu(), void jbtnCronometroActionPerformed(java.awt.event.ActionEvent evt), void jbtnTemporizadorActionPerformed(java.awt.event.ActionEvent evt).
        
   - Javier Aponte: Creación de clase Crono. 
     - Clase Crono: 
-       - Atributos: Tiempo miTiempo, Timer time
-       - Metodos: Crono(), void iniciarBotonActionPerformed(java.awt.event.ActionEvent evt), void pausarBotonActionPerformed(java.awt.event.ActionEvent evt),  void marcaBotonActionPerformed(java.awt.event.ActionEvent evt), void atrasBotonActionPerformed(java.awt.event.ActionEvent evt).
+     - Atributos: Tiempo miTiempo, Timer time
+     - Metodos: Crono(), void iniciarBotonActionPerformed(java.awt.event.ActionEvent evt), void pausarBotonActionPerformed(java.awt.event.ActionEvent evt),  void marcaBotonActionPerformed(java.awt.event.ActionEvent evt), void atrasBotonActionPerformed(java.awt.event.ActionEvent evt).
        
   - Julian Rincon: Creación clase Tempo.
     - Clase Tempo:
-       - Atributos: Timer time, Tiempo miTiempo
-       - Metodos: Tempo(), void BHBotonActionPerformed(java.awt.event.ActionEvent evt), void SMBotonActionPerformed(java.awt.event.ActionEvent evt), void BmBotonActionPerformed(java.awt.event.ActionEvent evt), void SSBotonActionPerformed(java.awt.event.ActionEvent evt), void BSBotonActionPerformed(java.awt.event.ActionEvent evt),  void iniciarBotonActionPerformed(java.awt.event.ActionEvent evt), void pausarBotonActionPerformed(java.awt.event.ActionEvent evt), void cancelarBotonActionPerformed(java.awt.event.ActionEvent evt), void atrasBotonActionPerformed(java.awt.event.ActionEvent evt).
+     - Atributos: Timer time, Tiempo miTiempo
+     - Metodos: Tempo(), void BHBotonActionPerformed(java.awt.event.ActionEvent evt), void SMBotonActionPerformed(java.awt.event.ActionEvent evt), void BmBotonActionPerformed(java.awt.event.ActionEvent evt), void SSBotonActionPerformed(java.awt.event.ActionEvent evt), void BSBotonActionPerformed(java.awt.event.ActionEvent evt),  void iniciarBotonActionPerformed(java.awt.event.ActionEvent evt), void pausarBotonActionPerformed(java.awt.event.ActionEvent evt), void cancelarBotonActionPerformed(java.awt.event.ActionEvent evt), void atrasBotonActionPerformed(java.awt.event.ActionEvent evt).

@@ -52,6 +52,10 @@ Julian David Rincon Castro 20172020125
 
 ![Casos de uso](Diagramas/Casos%20de%20uso.jpg)
 
+### Clases
+
+![Clases](Diagramas/Clases.PNG)
+
 ### Actividades
 
 ### Cronometro

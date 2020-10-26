@@ -65,3 +65,7 @@ Julian David Rincon Castro 20172020125
 
 #### Reiniciar
 ![Reiniciar](Diagramas/Actividades/Temporizador/Reiniciar.jpg)
+
+#### Parar
+![Parar](Diagramas/Actividades/Temporizador/Parar temporizador.png)
+

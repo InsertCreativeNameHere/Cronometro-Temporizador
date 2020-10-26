@@ -50,4 +50,4 @@ Julian David Rincon Castro 20172020125
 
 ### Casos de uso
 
-![Screenshot](Diagramas/Casos de uso.jpg)
+![Screenshot](Diagramas/Actividades/iniciar.jpg)

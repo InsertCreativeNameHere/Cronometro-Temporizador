@@ -50,4 +50,4 @@ Julian David Rincon Castro 20172020125
 
 ### Casos de uso
 
-![Screenshot](Diagramas/Actividades/Temporizador/iniciar.jpg)
+![Screenshot](Diagramas/Actividades/Temporizador/Iniciar.jpg)

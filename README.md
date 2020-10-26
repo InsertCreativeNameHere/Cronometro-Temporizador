@@ -56,6 +56,13 @@ Julian David Rincon Castro 20172020125
 
 ### Cronometro
 
+
+#### Parar
+![Parar](Diagramas/Cronometro/Parar cronometro.jpeg)
+
+#### Pausar
+![Pausar](Diagramas/Cronometro/Pausar cronometro.jpeg)
+
 ### Temporizador
 #### Iniciar temporizado
 ![Iniciar temporizador](Diagramas/Actividades/Temporizador/Iniciar.jpg)
@@ -65,6 +72,8 @@ Julian David Rincon Castro 20172020125
 
 #### Reiniciar
 ![Reiniciar](Diagramas/Actividades/Temporizador/Reiniciar.jpg)
+
+
 
 
 

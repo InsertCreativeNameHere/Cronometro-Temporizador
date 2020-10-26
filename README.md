@@ -45,3 +45,9 @@ Julian David Rincon Castro 20172020125
     - Clase Tempo:
      - Atributos: Timer time, Tiempo miTiempo
      - Metodos: Tempo(), void BHBotonActionPerformed(java.awt.event.ActionEvent evt), void SMBotonActionPerformed(java.awt.event.ActionEvent evt), void BmBotonActionPerformed(java.awt.event.ActionEvent evt), void SSBotonActionPerformed(java.awt.event.ActionEvent evt), void BSBotonActionPerformed(java.awt.event.ActionEvent evt),  void iniciarBotonActionPerformed(java.awt.event.ActionEvent evt), void pausarBotonActionPerformed(java.awt.event.ActionEvent evt), void cancelarBotonActionPerformed(java.awt.event.ActionEvent evt), void atrasBotonActionPerformed(java.awt.event.ActionEvent evt).
+     
+## Diagramas
+
+### Casos de uso
+
+![Screenshot](Diagramas/Casos de uso.jpg)

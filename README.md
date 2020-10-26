@@ -50,4 +50,18 @@ Julian David Rincon Castro 20172020125
 
 ### Casos de uso
 
-![Screenshot](Diagramas/Actividades/Temporizador/Iniciar.jpg)
+![Casos de uso](Diagramas/Casos%20de%20uso.jpg)
+
+### Actividades
+
+### Cronometro
+
+### Temporizador
+#### Iniciar temporizado
+![Iniciar temporizador](Diagramas/Actividades/Temporizador/Iniciar.jpg)
+
+#### Establecer tiempo
+![Establecer tiempo](Diagramas/Actividades/Temporizador/Establecer%20tiempo.jpg)
+
+#### Reiniciar
+![Reiniciar](Diagramas/Actividades/Temporizador/Reiniciar.jpg)

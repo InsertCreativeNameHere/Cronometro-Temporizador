@@ -79,6 +79,12 @@ Julian David Rincon Castro 20172020125
 #### Iniciar temporizado
 ![Iniciar temporizador](Diagramas/Actividades/Temporizador/Iniciar.jpg)
 
+#### Pausar temporizador
+![Pausar temporizador](Diagramas/Actividades/Temporizador/pausarTemp.jpeg)
+
+#### Parar temporizador
+![Parar temporizador](Diagramas/Actividades/Temporizador/pararTemp.jpeg)
+
 #### Establecer tiempo
 ![Establecer tiempo](Diagramas/Actividades/Temporizador/Establecer%20tiempo.jpg)
 

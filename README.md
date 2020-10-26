@@ -55,6 +55,10 @@ Julian David Rincon Castro 20172020125
 ### Actividades
 
 ### Cronometro
+#### Iniciar
+
+![Iniciar](Diagramas/Actividades/Cronometro/iniciarCrono.PNG)
+
 #### Parar
 
 ![Parar](Diagramas/Actividades/Cronometro/PararCronometro.jpeg)

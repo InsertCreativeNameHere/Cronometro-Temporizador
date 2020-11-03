@@ -110,6 +110,10 @@ Julian David Rincon Castro 20172020125
 
 ![Guardar](Diagramas/Secuencia/Cronometro/SecuenciaCronoGuard.PNG)
 
+### Temporizador
+
+#### Pausar / Reiniciar
+![Pausar / Reiniciar temporizador](Diagramas/Secuencia/Temporizador/SecuenciaTemporizador.png)
 
 
 

@@ -60,6 +60,10 @@ Julian David Rincon Castro 20172020125
 
 ![Parar](Diagramas/Requerimientos/Cronometro/Parar.PNG)
 
+#### Guardar
+
+![Guardar](Diagramas/Requerimientos/Cronometro/guardar.PNG)
+
 
 ### Temporizador
 

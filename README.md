@@ -121,8 +121,9 @@ Julian David Rincon Castro 20172020125
 #### Retroceder unidad de tiempo
 ![Retroceder unidad de tiempo](Diagramas/Secuencia/Temporizador/RetrocerderUnidadTiempo.jpg)
 
-#### Pausar / Reiniciar
-![Pausar / Reiniciar temporizador](Diagramas/Secuencia/Temporizador/SecuenciaTemporizador.png)
+#### Pausar
+![Pausar temporizador](Diagramas/Secuencia/Temporizador/SecuenciaTemporizador.png)
 
-
+#### Parar/ Reiniciar
+![Parar / Reiniciar temporizador](Diagramas/Secuencia/Temporizador/PararTemporizador.jpg)
 

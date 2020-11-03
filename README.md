@@ -64,7 +64,7 @@ Julian David Rincon Castro 20172020125
 ### Temporizador
 
 
-#### Establecer unidad tiempo
+#### Establecer tiempo
 ![Establecer tiempo](Diagramas/Requerimientos/Temporizador/establecerT.PNG)
 
 #### Establecer unidad tiempo

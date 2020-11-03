@@ -52,6 +52,45 @@ Julian David Rincon Castro 20172020125
 
 ![Casos de uso](Diagramas/Casos%20de%20uso.jpg)
 
+### Requerimientos
+
+### Cronometro
+
+#### Parar
+
+![Parar](Diagramas/Requerimientos/Cronometro/Parar.PNG)
+
+
+### Temporizador
+
+
+#### Establecer unidad tiempo
+![Establecer tiempo](Diagramas/Requerimientos/Temporizador/establecerT.PNG)
+
+#### Establecer unidad tiempo
+![Establecer unidad tiempo](Diagramas/Requerimientos/Temporizador/establecerUT.PNG)
+
+#### Establecer unidad seteada
+![Establecer unidad seteada](Diagramas/Requerimientos/Temporizador/establecerUS.PNG)
+
+#### Pausar
+![Pausar temporizador](Diagramas/Requerimientos/Temporizador/pausar.PNG)
+
+#### Parar
+![Parar](Diagramas/Requerimientos/Temporizador/parar.PNG)
+
+#### Reiniciar
+![Reinicar](Diagramas/Requerimientos/Temporizador/reiniciar.PNG)
+
+#### Retroceder
+![Retroceder](Diagramas/Requerimientos/Temporizador/Retroceder.PNG)
+
+#### Retroceder unidad de tiempo
+![Retroceder unidad de tiempo](Diagramas/Requerimientos/Temporizador/RetrocederUT.PNG)
+
+
+
+
 ### Clases
 
 ![Clases](Diagramas/Clases.PNG)

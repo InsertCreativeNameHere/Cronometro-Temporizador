@@ -91,7 +91,24 @@ Julian David Rincon Castro 20172020125
 #### Reiniciar
 ![Reiniciar](Diagramas/Actividades/Temporizador/Reiniciar.jpg)
 
+### Secuencia
 
+### Cronometro
+#### Iniciar
+
+![Iniciar](Diagramas/Secuencia/Cronometro/SecuenciaIniciarCrono.PNG)
+
+#### Parar
+
+![Parar](Diagramas/Secuencia/Cronometro/SecuenciaCronometroParar.png)
+
+#### Pausar
+
+![Pausar](Diagramas/Secuencia/Cronometro/SecuenciaCronoPau.PNG)
+
+#### Guardar
+
+![Guardar](Diagramas/Secuencia/Cronometro/SecuenciaCronoGuard.PNG)
 
 
 

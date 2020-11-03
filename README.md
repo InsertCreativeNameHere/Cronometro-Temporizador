@@ -80,16 +80,13 @@ Julian David Rincon Castro 20172020125
 ![Iniciar temporizador](Diagramas/Actividades/Temporizador/Iniciar.jpg)
 
 #### Establecer tiempo
-![Establecer tiempo](Diagramas/Actividades/Temporizador/Establecer%20tiempo.jpg)
+![Establecer tiempo](Diagramas/Actividades/Temporizador/Establecer%20Tiempo.jpg)
 
 #### Pausar
 ![Pausar temporizador](Diagramas/Actividades/Temporizador/pausarTemp.jpeg)
 
-#### Parar
-![Reiniciar temporizador](Diagramas/Actividades/Temporizador/pararTemp.jpeg)
-
-#### Reiniciar
-![Reiniciar](Diagramas/Actividades/Temporizador/Reiniciar.jpg)
+#### Parar/Reiniciar
+![Reiniciar](Diagramas/Actividades/Temporizador/Reinciar%20Temporzador.jpg)
 
 ### Secuencia
 
@@ -111,6 +108,18 @@ Julian David Rincon Castro 20172020125
 ![Guardar](Diagramas/Secuencia/Cronometro/SecuenciaCronoGuard.PNG)
 
 ### Temporizador
+
+#### Establecer tiempo
+![Establecer tiempo](Diagramas/Secuencia/Temporizador/EstablecerTiempo.jpg)
+
+#### Establecer unidad de tiempo
+![Establecer tiempo](Diagramas/Secuencia/Temporizador/Establecer%20unidad%20de%20tiempo.jpg)
+
+#### Retroceder Temporizador
+![Retroceder Temporizador](Diagramas/Secuencia/Temporizador/RetrocederTemporizador.jpg)
+
+#### Retroceder unidad de tiempo
+![Retroceder unidad de tiempo](Diagramas/Secuencia/Temporizador/RetrocerderUnidadTiempo.jpg)
 
 #### Pausar / Reiniciar
 ![Pausar / Reiniciar temporizador](Diagramas/Secuencia/Temporizador/SecuenciaTemporizador.png)
